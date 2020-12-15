@@ -1,0 +1,17 @@
+{
+  "name": "generate-qr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cheprasov/qrcode": "^0.1.0",
+    "canvas": "^2.6.1",
+    "node-fetch": "^2.6.1",
+    "sharp": "^0.26.3"
+  }
+}
